@@ -2,11 +2,26 @@
 <!-- Animated Header Banner -->
 
 
+<div align="center" style="position: relative; display: inline-block;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
+  <span style="
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    font-size: 14px; 
+    font-weight: bold; 
+    color: white; 
+    text-shadow: 1px 1px 3px black;
+  ">
+    Khushboo Kumari
+  </span>
+</div>
+
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hi there, I'm Khushboo Kumari
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there, I'm Khushboo Kumari 👋
 </h1>
+
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
