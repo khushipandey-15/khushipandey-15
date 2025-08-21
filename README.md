@@ -1,4 +1,3 @@
-# Enhanced GitHub Profile README
 
 <!-- Animated Header Banner -->
 
